@@ -23,3 +23,10 @@ This repository contains all AI projects completed during my AI Internship at De
 Bachelor of Business & Information Technology (BBIT)
 
 University of Engineering and Technology (UET) Lahore
+### Project 3 – Movie Recommendation System
+
+- Built using Python
+- Takes user preferences such as genre and language
+- Matches preferences using logical conditions
+- Displays suitable movie recommendations
+- Handles cases where no exact match is found
